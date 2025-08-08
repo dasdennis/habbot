@@ -25,7 +25,7 @@ Built with **Python**, **python-telegram-bot**, **SQLAlchemy**, and **APSchedule
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/habbot.git
+git clone https://github.com/dasdennis/habbot.git
 cd habbot
 
 # Create virtual environment
